@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ndanu! 👋
 
-<!--
-**ndanu-c/ndanu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Culture Mover Through Tech**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building software that makes a difference—whether it’s powering communities or helping individuals track their wellbeing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 💻 **Software Engineer** with a focus on **Python** and **JavaScript**
+- 🚀 **Culture Mover Through Tech** — I believe in tech’s power to shape culture and drive positive change
+- 🏅 **Huawei AI Certified**
+- 💃 I love dancing, watching, and talking about all things tech!
+
+## 🔥 Skills
+- Python
+- JavaScript
+- AI & Machine Learning (Huawei Certified)
+- Database Design
+- Web Development
+
+## 🏆 Featured Project
+### [Mood Tracker](https://github.com/ndanu-c/mood_tracker)
+Empowering users to understand and improve their mental wellbeing, one entry at a time.
+
+## ✨ Other Projects
+- [Database Week 7](https://github.com/ndanu-c/database-wk-7)
+- [Python Programming](https://github.com/ndanu-c/python_programming)
+- [Week 6](https://github.com/ndanu-c/week-6)
+- [Week 5](https://github.com/ndanu-c/week_5)
+
+## 🎯 Achievements
+- Huawei AI Certification
+
+## 🌐 Find Me Online
+- [Portfolio Website](https://ndanu-c-portfolio.netlify.app)
+
+---
+
+_“Tech isn’t just code—it’s culture.”_
