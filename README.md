@@ -4,7 +4,7 @@
 
 **Software Engineer | Full Stack Developer | Culture mover through tech**
 
-I'm a woman in tech, passionate about crafting solutions and moving culture forward through technology. Whether it's building robust backends or crafting beautiful, minimalist frontends, I thrive on solving problems and sharing tech vibes.
+I'm a lady in tech, passionate about crafting solutions and moving culture forward through technology. Whether it's building robust backends or crafting beautiful, minimalist frontends, I thrive on solving problems and sharing tech vibes.
 
 ## 🚀 Skills & Tech Stack
 
@@ -19,13 +19,17 @@ I'm a woman in tech, passionate about crafting solutions and moving culture forw
 [![database-wk-7](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=database-wk-7)](https://github.com/ndanu-c/database-wk-7)
 [![python_programming](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=python_programming)](https://github.com/ndanu-c/python_programming)
 
+---
+
 ## 💡 About Me
 
 - ✨ Woman in Tech
 - 🚀 Solution Crafter
 - 🦾 Tech vibes everywhere
-- 🎨 Anime & Nedry enthusiast
+- 🎨 Anime & Nerdy 
 - 🌱 Always learning, always building
+
+---
 
 ## 📫 Contact
 
@@ -35,7 +39,6 @@ I'm a woman in tech, passionate about crafting solutions and moving culture forw
 
 ![ndanu-c's github stats](https://github-readme-stats.vercel.app/api?username=ndanu-c&show_icons=true&hide_title=true&theme=tokyonight)
 
-![Techy minimalist anime divider](https://raw.githubusercontent.com/mishmanners/markdown-templates/main/divider.png)
+---
 
 > **"Anything to craft solutions through tech."**
-
