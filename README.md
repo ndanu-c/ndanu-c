@@ -1,38 +1,41 @@
-# Hi, I'm Ndanu! 👋
+![ndanu-c's GitHub Banner](https://capsule-render.vercel.app/api?type=wave&color=0:6BCB77,100:4D96FF&height=180&section=header&text=ndanu-c%20%F0%9F%A7%AA%20|%20Culture%20Mover%20Through%20Tech&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-**Software Engineer | Culture Mover Through Tech**
+# Hi, I'm Ndanu 👋
 
-Welcome to my GitHub! I’m passionate about building software that makes a difference—whether it’s powering communities or helping individuals track their wellbeing.
+**Software Engineer | Full Stack Developer | Culture mover through tech**
 
-## 🌟 About Me
-- 💻 **Software Engineer** with a focus on **Python** and **JavaScript**
-- 🚀 **Culture Mover Through Tech** — I believe in tech’s power to shape culture and drive positive change
-- 🏅 **Huawei AI Certified**
-- 💃 I love dancing, watching, and talking about all things tech!
+I'm a woman in tech, passionate about crafting solutions and moving culture forward through technology. Whether it's building robust backends or crafting beautiful, minimalist frontends, I thrive on solving problems and sharing tech vibes.
 
-## 🔥 Skills
-- Python
-- JavaScript
-- AI & Machine Learning (Huawei Certified)
-- Database Design
-- Web Development
+## 🚀 Skills & Tech Stack
 
-## 🏆 Featured Project
-### [Mood Tracker](https://github.com/ndanu-c/mood_tracker)
-Empowering users to understand and improve their mental wellbeing, one entry at a time.
+- **Languages & Frameworks:** Python | JavaScript | MySQL | HTML | CSS
+- **Strengths:** Full Stack Development, Solution Crafting, Tech Community Building
+- **Aesthetics:** Techy & minimalist, inspired by anime & Nedry vibes
 
-## ✨ Other Projects
-- [Database Week 7](https://github.com/ndanu-c/database-wk-7)
-- [Python Programming](https://github.com/ndanu-c/python_programming)
-- [Week 6](https://github.com/ndanu-c/week-6)
-- [Week 5](https://github.com/ndanu-c/week_5)
+## 🌟 Featured Projects
 
-## 🎯 Achievements
-- Huawei AI Certification
+[![hotel_booking](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=hotel_booking)](https://github.com/ndanu-c/hotel_booking)
+[![mood_tracker](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=mood_tracker)](https://github.com/ndanu-c/mood_tracker)
+[![database-wk-7](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=database-wk-7)](https://github.com/ndanu-c/database-wk-7)
+[![python_programming](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=python_programming)](https://github.com/ndanu-c/python_programming)
 
-## 🌐 Find Me Online
-- [Portfolio Website](https://ndanu-c-portfolio.netlify.app)
+## 💡 About Me
+
+- ✨ Woman in Tech
+- 🚀 Solution Crafter
+- 🦾 Tech vibes everywhere
+- 🎨 Anime & Nedry enthusiast
+- 🌱 Always learning, always building
+
+## 📫 Contact
+
+- **Email:** [ctinnah638@gmail.com](mailto:ctinnah638@gmail.com)
 
 ---
 
-_“Tech isn’t just code—it’s culture.”_
+![ndanu-c's github stats](https://github-readme-stats.vercel.app/api?username=ndanu-c&show_icons=true&hide_title=true&theme=tokyonight)
+
+![Techy minimalist anime divider](https://raw.githubusercontent.com/mishmanners/markdown-templates/main/divider.png)
+
+> **"Anything to craft solutions through tech."**
+
