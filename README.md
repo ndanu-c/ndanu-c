@@ -1,6 +1,6 @@
 ![ndanu-c's GitHub Banner](https://capsule-render.vercel.app/api?type=wave&color=0:6BCB77,100:4D96FF&height=180&section=header&text=ndanu-c%20%F0%9F%A7%AA%20|%20Culture%20Mover%20Through%20Tech&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-# Hi, I'm Ndanu 👋
+# Hi, I'm Tinnah 👋
 
 **Software Engineer | Full Stack Developer | Culture mover through tech**
 
