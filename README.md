@@ -16,7 +16,6 @@ I'm a lady in tech, passionate about crafting solutions and moving culture forwa
 
 [![hotel_booking](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=hotel_booking)](https://github.com/ndanu-c/hotel_booking)
 [![mood_tracker](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=mood_tracker)](https://github.com/ndanu-c/mood_tracker)
-[![database-wk-7](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=database-wk-7)](https://github.com/ndanu-c/database-wk-7)
 [![python_programming](https://github-readme-stats.vercel.app/api/pin/?username=ndanu-c&repo=python_programming)](https://github.com/ndanu-c/python_programming)
 
 ---
