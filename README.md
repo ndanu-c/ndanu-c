@@ -8,7 +8,7 @@ I'm a lady in tech, passionate about crafting solutions and moving culture forwa
 
 ## 🚀 Skills & Tech Stack
 
-- **Languages & Frameworks:** Python | JavaScript | MySQL | HTML | CSS
+- **Languages & Frameworks:** Python | JavaScript | MySQL | HTML | CSS | Bootstrap | React
 - **Strengths:** Full Stack Development, Solution Crafting, Tech Community Building
 - **Aesthetics:** Techy & minimalist, inspired by anime & Nedry vibes
 
